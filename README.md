@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Sample
+![todo app sample](src/todoapp.png)
 ### `npm start`
 
 Runs the app in the development mode.<br>
